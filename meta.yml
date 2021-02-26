@@ -1,8 +1,9 @@
 ---
-name: Repetición Condicional e Indexada 2021
+name: Repetición Condicional e Indexada
 locale: es
 type: learning
 beta: false
+teacher_info: ''
 language: python3
 id_format: "%05d"
 order: []
