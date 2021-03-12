@@ -1,0 +1,1 @@
+Como vemos, las listas y los strings son más parecidos de lo que pensábamos: ambos tipos de datos representan _secuencias_: los strings son secuencias de caracteres, mientras que las listas son secuencias de cualquier tipo de dato. 
