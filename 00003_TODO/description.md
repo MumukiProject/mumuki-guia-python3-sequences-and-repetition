@@ -1,0 +1,1 @@
+Presentación del for. Mostrar el recorrido. Hacerlo con print o con un for que no hace nada util. 
