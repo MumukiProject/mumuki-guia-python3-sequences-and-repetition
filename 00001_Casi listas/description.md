@@ -21,7 +21,7 @@ True
 > ム "Del árbol" + "una hoja se cayó"
 > ム  "Sín brújula y sin radio"[4]
 > ム [1, 4] + [4, 5]
-> ム ["el", "carozo", "cantó"][1]
+> ム ["el", "carozo", "cantó"][2]
 > ```
 
 
