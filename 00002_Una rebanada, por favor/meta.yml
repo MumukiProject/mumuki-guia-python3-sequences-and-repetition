@@ -9,6 +9,6 @@ teacher_info: ''
 manual_evaluation: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  kind: last_query_equals
-  value: listo()
+  kind: last_query_outputs
+  output: "'con el cantar se consuela'"
 name: Una rebanada, por favor
