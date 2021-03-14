@@ -1,1 +1,1 @@
-TODO
+No todos son listas. Ronda de mate
