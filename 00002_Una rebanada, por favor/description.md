@@ -4,7 +4,7 @@ Otras operaciones que listas y strings tienen en común son los _slices_, que po
 ム numeros = [10, 20, 30, 40, 50]
 ム numeros[0:2]
 [30, 40]         # es la lista conformada por el 1er y 2do elemento;
-                 # recordemos que los índices en Python cuentan desde 0
+                 # ⚠️ recordemos que los índices en Python cuentan desde 0
 ム numeros[2:4]
 [30, 40]         # es la lista conformada por el 3er y 4to elemento
 ム numeros[0:4]
