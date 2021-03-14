@@ -1,4 +1,10 @@
-Otra operación que las listas y strings tienen en común son los _slices_, que podemos traducir como segmentos, secciones, o (de forma más literal y graciosa) rebanadas  :bread:, que nos permite obtener los elementos entre dos límites:
+Otra operación que las listas y strings tienen en común son los _slices_, que podemos traducir como segmentos, secciones, o (de forma más literal y graciosa) rebanadas  :bread:, que nos permite obtener los elementos entre dos límites. Por ejemplo, supongamos que tenemos el string 
+
+
+| h | o | l | a |   | m | u | n | d | o |
+|---|---|---|---|---|---|---|---|---|---|
+| 0 | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 7 | 8 |
+
 
 ```python
 ム numeros = [10, 20, 30, 40, 50]
