@@ -1,0 +1,1 @@
+No olvides que los procedimientos no devuelven nada. Esto significa que ni `print` ni `imprimir_cada_elemento` están retornando valores, sino que sólo los están imprimiendo. 
