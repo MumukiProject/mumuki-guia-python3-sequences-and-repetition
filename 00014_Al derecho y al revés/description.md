@@ -1,7 +1,7 @@
 ¡Los segmentos `[:]` y el operador de indexación `[]` no serían tan útiles si no pudieramos contar también de atrás para adelante! :arrow_left: Por eso es que Python nos permite utilizar:
 
- * índices positivos: empiezan en `0` y cuentan los elementos desde la primera posición hasta la última
- * índices negativos: empiezan en `-1` y cuentan los elementos desde la última posición hasta la primera
+ * índices positivos: empiezan en `0` y cuentan los elementos desde la primera posición hasta la última;
+ * índices negativos: empiezan en `-1` y cuentan los elementos desde la última posición hasta la primera.
 
 Por ejemplo, esto nos permitirá entender al string `"hola mundo"` de dos formas diferentes...
 
