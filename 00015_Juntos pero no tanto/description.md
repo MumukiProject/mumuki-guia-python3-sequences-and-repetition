@@ -11,3 +11,4 @@
 ```
 
 > ¡Mejoremos nuestra funcion anterior! Modificá `juntar` para que podamos recibir también un separador.
+> 
