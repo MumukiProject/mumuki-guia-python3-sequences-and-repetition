@@ -1,4 +1,3 @@
-```python
 def todos_los_dias_un_poco(duraciones): 
   ???
   
@@ -6,4 +5,3 @@ def todos_los_dias_un_poco(duraciones):
     ???
   
   return ???
-```
