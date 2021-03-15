@@ -3,10 +3,12 @@ Estabamos por proponerte jugar a un conocido juego que consiste en encontrar a u
 > Usando lo visto en esta lección, definí la función `donde_estan_las_llaves` que tome un string con emojis y nos diga en qué posición están las llaves, contando desde `1`: 
 > 
 > ```python
-> donde_estan_las_llaves("🌂🐍🔑👛")
+> ム donde_estan_las_llaves("🌂🐍🔑👛")
 > 3
-> donde_estan_las_llaves("🔑🔥👓")
-> donde_estan_las_llaves("🍪🍪🍪🍪🍪🍪🍪🔑🧉")
+> ム donde_estan_las_llaves("🔑🔥👓")
+> 1
+> ム donde_estan_las_llaves("🍪🍪🍪🍪🍪🍪🍪🔑🧉")
+> 8
 > ```
 > 
 > Considerá que las llaves _siempre_ están.  
