@@ -1,0 +1,1 @@
+¡Bien! A tener en cuenta: si bien la función `productoria` no existe en Python, sí existe la función `sum` que calcula una sumatoria tal como vimos acá. 
