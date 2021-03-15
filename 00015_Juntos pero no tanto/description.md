@@ -1,15 +1,14 @@
-¿Y si ahora quisieramos juntar listas de strings, pero indicando un _separador_? Por ejemplo: 
+¿Y si ahora quisieramos juntar listas de strings, pero indicando además un _separador_? Por ejemplo: 
 
-> ```python
+```python
+ム juntar(" ", ["Nicki", "Nicole"])
+"Nicki Nicole"
+ム juntar(",", ["Londra", "Paulo"])
+"Londra,Paulo"
+ム juntar("", ["W", "O", "S"])
+"WOS" # podemos seguir uniendo sin separadores si pasamos 
+      # la lista vacía como argumento
+```
 
-> ム juntar(" ", ["Nicki", "Nicole"])
-> "cuatrimotor"
-> ム juntar(",", ["Londra", "Paulo"])
-> "cuatrimotor"
-> ム juntar("", ["W", "O", "S"])
-> "WOS"
-> ```
-
-
-¡Mejoremos nuestra funcion anterior!
+> ¡Mejoremos nuestra funcion anterior! Modificala para que podamos recibir también un separador
 
