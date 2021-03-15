@@ -1,4 +1,4 @@
-¡Pero el `for` no se trata sólo de operaciones con números!
+_Y por supuesto, también podemos usar el `for` con listas de strings_
 
 > Definí la función `juntar` que tome por parámetro una lista de strings y los una de la siguiente forma: 
 > 
