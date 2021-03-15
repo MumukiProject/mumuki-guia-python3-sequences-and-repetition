@@ -5,3 +5,10 @@ rules:
     error_contains: "???"
   then: 'no te olvides de reemplazar los `???` por código que realmente haga algo
     :smile:'
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+    these_expectations_failed:
+    - todos_los_dias_un_poco Not:UsesOr
+  then: en el ejemplo anterior teníamos que validar que alguna duración cumpliera
+    una condición y usamos `or`, pero acá tenemos que validar que **todas** las duraciones
+    la cumplan; ¿habrá otro operador lógico que nos resuelva ese problema?

@@ -31,7 +31,7 @@ Como vemos, acá la variable local que estamos usando de _acumulador_ es boolean
 > ```python
 > ム todos_los_dias_un_poco([35, 40, 32, 60])
 > True  # todos los días practicó más de 30 minutos
-> ム todos_los_dias_un_poco([15, ,45, 90, 0])
+> ム todos_los_dias_un_poco([15, 45, 90, 0])
 > False # un día practicó solo 15 minutos, y otro no practicó nada
 >``` 
 > 
