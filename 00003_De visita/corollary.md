@@ -5,7 +5,6 @@ Para ello, esta estructura tiene tres partes:
  1. `in` nos permite especificar qué secuencia de elementos vamos a recorrer;
  2. `for` nos permite elegir un nombre con el que nos referiremos a cada elemento de la secuencia;
  3. y después del `:` tendremos una o más acciones que ejecutaremos al visitar cada elemento. :warning: ¡Cuidado! Tienen que estar tabuladas respecto de la línea del `for` 
- 
 
 
 En este caso, en `imprimir_cada_elemento` elegimos: 
