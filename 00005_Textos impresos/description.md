@@ -20,7 +20,7 @@ Fingiendo indiferencia
 '\nDígame usted compañero\ny conteste con prudencia\nCual es la mansa paciencia\nque puebla nuestras praderas\nY en melancólica espera \ncon abnegada paciencia\nNos da alimento y abrigo\nFingiendo indiferencia\n'
 ```
 
-Este `\n`, llamado _salto de línea_, **representa**  que allí, antes del siguiente carácter, debe haber un enter `↵`. Perfecto, pero ¿y si queremos "imprimir" el texto en la pantalla, con verdaderos enters en lugar de estos `\n`? Démosle la bienvenida al procedimiento `print`: 
+Este `\n`, llamado _salto de línea_, **representa**  que allí, antes del siguiente carácter, debe haber un enter `↵`. Perfecto, pero ¿y si queremos "escribir" el texto en la pantalla, con verdaderos enters en lugar de estos `\n`? Démosle la bienvenida al procedimiento `print`, que imprime los textos tal como queremos que se vean:
 
 ```python
 > print(payada_de_la_vaca)
@@ -35,4 +35,14 @@ Nos da alimento y abrigo
 Fingiendo indiferencia
 ```
 
+> ¿Y qué pasará si usamos print con string que no contienen saltos de lína? ¿Y si imprimimos otros tipos de datos? Averiagualo probando lo siguiente y comparando resultados: 
+> 
+> ```python
+> ム 5
+> ム print(5)
+> ム [1, 2, 3]
+> ム print([1, 2, 3])
+> ム "hola"
+> ム print("hola")
+> ```
 
