@@ -10,4 +10,9 @@ class Test(unittest.TestCase):
   def test_juntar_cuatri_motor_devuelve_cuatrimotor(self):
     self.assertEqual(juntar("", ["cuatri", "motor"]), "cuatrimotor")
     
+  def test_juntar_hola_mundo_con_un_espacio_devuelve_hola_mundo(self):
+    self.assertEqual(juntar(" ", ["hola", "mundo"]), "hola mundo")
+    
+  
+    
     
