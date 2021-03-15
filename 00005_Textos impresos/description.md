@@ -42,7 +42,7 @@ Fingiendo indiferencia
 > ム print(5)
 > ム [1, 2, 3]
 > ム print([1, 2, 3])
-> ム "hola"
-> ム print("hola")
+> ム "a la voz de aura"
+> ム print("a la voz de aura")
 > ```
 
