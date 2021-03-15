@@ -1,4 +1,4 @@
-:octagonal_sign: Antes de continuar vamos a hacer un alto en el camino para ver ~una vaca :cow:~ otra payada:
+:octagonal_sign: Antes de continuar vamos a hacer un alto en el camino para ver <del>una vaca :cow:</del> otra payada:
 
 ```python
 payada_de_la_vaca = """
