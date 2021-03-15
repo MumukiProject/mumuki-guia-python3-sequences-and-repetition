@@ -4,7 +4,7 @@ class Test(unittest.TestCase):
     self.assertEquals(sin_extremos([4, 5, 10, 2, 3]), [5, 10, 2])
     
   def test_sin_extremos_de_la_lista_4_5_10_2_3_9_devuelve_la_lista_5_10_2_9(self):
-    self.assertEquals(sin_extremos([4, 5, 10, 2, 3, 9]), [5, 10, 2, 9])
+    self.assertEquals(sin_extremos([4, 5, 10, 2, 3, 9]), [5, 10, 2, 3])
     
   def test_sin_extremos_de_la_lista_4_5_10_devuelve_la_lista_5(self):
     self.assertEquals(sin_extremos([4, 5, 10]), [5])
