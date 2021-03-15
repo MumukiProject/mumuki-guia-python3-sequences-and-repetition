@@ -17,4 +17,4 @@ expectations:
   inspection: Not:UsesOr
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: todos_los_dias_un_poco
-  inspection: Not:Assigns:WithTrue
+  inspection: Not:Assigns:WithFalse
