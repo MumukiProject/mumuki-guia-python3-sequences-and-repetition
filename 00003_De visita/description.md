@@ -19,3 +19,5 @@ Esta estructura de control nos permitirá...
 > ム imprimir_cada_elemento(range(1, 10))    # range en inglés significa rango
 > ム imprimir_cada_elemento(range(5, 30, 2)) # prestá atención al tercer argumento de range
 > ```
+> 
+> Cuando termines, escribí `listo()`
