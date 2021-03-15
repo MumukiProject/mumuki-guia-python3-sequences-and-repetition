@@ -20,7 +20,7 @@ Fingiendo indiferencia
 '\nDígame usted compañero\ny conteste con prudencia\nCual es la mansa paciencia\nque puebla nuestras praderas\nY en melancólica espera \ncon abnegada paciencia\nNos da alimento y abrigo\nFingiendo indiferencia\n'
 ```
 
-Este `\n`, llamado _salto de línea_, **representa**  que allí, antes del siguiente carácter, debe haber un enter `↵`. Perfecto, pero ¿qué pasa si queremos "imprimir" el texto en la pantalla, con verdaderos enters en lugar de estos `\n`? Démosle la bienvenida al procedimiento `print`: 
+Este `\n`, llamado _salto de línea_, **representa**  que allí, antes del siguiente carácter, debe haber un enter `↵`. Perfecto, pero ¿y si queremos "imprimir" el texto en la pantalla, con verdaderos enters en lugar de estos `\n`? Démosle la bienvenida al procedimiento `print`: 
 
 ```python
 > print(payada_de_la_vaca)
