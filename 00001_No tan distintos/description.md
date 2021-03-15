@@ -18,8 +18,8 @@ True
 > ¿Será casualidad? ¿Habrá más operaciones en común entre estos dos tipos de datos? Averigüemoslo probando lo siguiente:  
 > 
 > ```python
-> ム "Del árbol" + "una hoja se cayó"
-> ム  "Sín brújula y sin radio"[4]
+> ム "Del árbol" + " una hoja se cayó"
+> ム "Sin brújula y sin radio"[4]
 > ム [1, 4] + [4, 5]
 > ム ["el", "carozo", "cantó"][2]
 > ```
