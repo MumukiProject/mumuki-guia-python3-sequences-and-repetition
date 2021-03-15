@@ -1,1 +1,1 @@
-Como acabamos de ver `for ... in` nos permite "visitar" a cada elemento de una lista, string o rango de números, y hacer algo con éste
+Como acabamos de ver `for ... in` nos permite "visitar" a cada elemento de una lista, string o rango de números, y hacer algo con éste. En este caso, elegimos imprimir cada uno de esos elementos, pero, ¿podremos hacer algo más útil? 
