@@ -13,7 +13,7 @@ def cuantas_veces_supero_objetivo(duraciones):
   return veces
 ```
 
-...que es muy parecida a la que ya habíamos definido, pero tiene una novedad: ahora estamos contando **cuantas veces** se superó el objetivo. Y para eso necesitamos un `if`, con algunas particularidades: 
+...que es muy parecida a la que ya habíamos definido, pero tiene una novedad: ahora estamos contando **cuantas veces** se superó el objetivo. Y para eso necesitamos un `if`, con algunas novedades: 
 
   * Por un lado, está dentro del `for`, tabulado, y no retorna nada;
   * por el otro, no tiene `else`: si la condición no se cumple, no hace _nada_. 
