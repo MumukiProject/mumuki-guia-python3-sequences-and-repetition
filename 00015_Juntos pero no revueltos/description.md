@@ -1,2 +1,0 @@
-¡Mejoremos nuestra funcion anterior!
-
