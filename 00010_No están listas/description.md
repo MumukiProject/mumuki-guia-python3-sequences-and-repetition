@@ -1,1 +1,1 @@
-No todos son listas. Ronda de mate
+otro con booleanos
