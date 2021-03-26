@@ -10,5 +10,4 @@
       # la lista vacía como argumento
 ```
 
-> ¡Mejoremos nuestra funcion anterior! Modificá `juntar` para que podamos recibir también un separador.
-> 
+> ¡Mejoremos nuestra funcion anterior! Modificá `juntar` para que podamos recibir también un separador. El separador es lo que va a ir entre cada string.
