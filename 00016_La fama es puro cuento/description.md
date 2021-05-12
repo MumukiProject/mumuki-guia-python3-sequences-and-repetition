@@ -1,4 +1,4 @@
-¡Que suerte que te encontramos, pensabamos que ya te ibas! ¿Podrías quedarte un poco más en esta lección? Es que Agus y Dani nos pidieron les demos una mano para llevar cuenta de sus estadísticas.  
+¡Que suerte que te encontramos, pensábamos que ya te ibas! ¿Podrías quedarte un poco más en esta lección? Es que Agus y Dani nos pidieron les demos una mano para llevar cuenta de sus estadísticas.  
 
 Por ahora, para Agus ya definimos esta función...
 
