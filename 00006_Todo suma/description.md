@@ -16,7 +16,7 @@ def sumatoria(numeros):
 ム sumatoria([10, 5, 20])
 35 # porque es 10 + 5 + 20
 ム sumatoria([])
-35 # porque la sumatoria de una lista vacía es 0
+0 # porque la sumatoria de una lista vacía es 0
 
 ```
 
