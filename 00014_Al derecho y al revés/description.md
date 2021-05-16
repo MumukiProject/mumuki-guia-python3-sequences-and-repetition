@@ -56,7 +56,7 @@ Por ejemplo, esto nos permitirá entender al string `"hola mundo"` de dos formas
 
 ```python
 ム "hola mundo"[:4] # los primeros 4 caracteres, como ya conocemos
-"hol" 
+"hola" 
 ム "hola mundo"[:-1] # todos los caracteres salvo el último
 "hola mund" 
 ム "hola mundo"[-5:] # los último 5 caracteres
