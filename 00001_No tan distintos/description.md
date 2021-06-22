@@ -5,7 +5,7 @@ Pero quizás ya hayas notado que hay dos operaciones en particular que son basta
 ```python
 ム len("no tenemos pertenencias sino equipaje")
 37
-ム "en" in len("un alma sola dividida en dos")
+ム "en" in "un alma sola dividida en dos"
 True
 ム len([4, 8, 15, 16, 23, 42])
 6
