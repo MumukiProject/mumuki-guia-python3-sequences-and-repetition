@@ -35,7 +35,7 @@ Nos da alimento y abrigo
 Fingiendo indiferencia
 ```
 
-> ¿Y qué pasará si usamos print con string que no contienen saltos de lína? ¿Y si imprimimos otros tipos de datos? Averigualo probando lo siguiente y comparando resultados: 
+> ¿Y qué pasará si usamos print con string que no contienen saltos de línea? ¿Y si imprimimos otros tipos de datos? Averigualo probando lo siguiente y comparando resultados: 
 > 
 > ```python
 > ム 5
