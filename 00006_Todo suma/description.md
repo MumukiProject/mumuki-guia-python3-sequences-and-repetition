@@ -27,7 +27,7 @@ def sumatoria(numeros):
 15 # porque es 1 + 2 + 3 + 4 + 5
 ```
 
-> Veamos si va entendiendo: completá la definición de la función `productoria` que, al igual que `sumatoria`, toma una secuencia de números, pero en lugar de sumarlos a todos, los multiplica: 
+> Veamos si se va entendiendo: completá la definición de la función `productoria` que, al igual que `sumatoria`, toma una secuencia de números, pero en lugar de sumarlos a todos, los multiplica: 
 > 
 > ```python
 > productoria([10, 2, 3])
