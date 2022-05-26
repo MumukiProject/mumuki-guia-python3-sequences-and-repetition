@@ -11,13 +11,24 @@ def imprimir_cada_elemento(elementos):
 Esta estructura de control nos permitirá...
 
 > ...no, mejor no te contamos qué hace exactamente `for` :smiling_imp:. Descubrilo probando el **procedimiento** `imprimir_cada_elemento` en la consola: 
-> 
+>
 > ```python
-> ム imprimir_cada_elemento(["Violeta", "Mercedes", "Natalia", "Charo", "María Elena"])
-> ム imprimir_cada_elemento([True, False, False, True])
-> ム imprimir_cada_elemento("adivinador")
-> ム imprimir_cada_elemento(range(1, 10))    # range en inglés significa rango
-> ム imprimir_cada_elemento(range(5, 30, 2)) # prestá atención al tercer argumento de range
-> ```
-> 
+ムimprimir_cada_elemento(["Violeta", "Mercedes", "Natalia", "Charo", "María Elena"])
+```
+>
+> ```python
+ムimprimir_cada_elemento([True, False, False, True])
+```
+>
+> ```python
+ムimprimir_cada_elemento("adivinador")
+```
+>
+> ```python
+ムimprimir_cada_elemento(range(1, 10))    # range en inglés significa rango
+```
+>
+> ```python
+ムimprimir_cada_elemento(range(5, 30, 2)) # prestá atención al tercer argumento de range
+```
 > Cuando termines, escribí `listo()`
