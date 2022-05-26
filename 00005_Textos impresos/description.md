@@ -38,11 +38,25 @@ Fingiendo indiferencia
 > ¿Y qué pasará si usamos print con string que no contienen saltos de línea? ¿Y si imprimimos otros tipos de datos? Averigualo probando lo siguiente y comparando resultados: 
 > 
 > ```python
-> ム 5
-> ム print(5)
-> ム [1, 2, 3]
-> ム print([1, 2, 3])
-> ム "a la voz de aura"
-> ム print("a la voz de aura")
-> ```
-
+ム5
+```
+>
+> ```python
+ムprint(5)
+```
+>
+> ```python
+ム[1, 2, 3]
+```
+>
+> ```python
+ムprint([1, 2, 3])
+```
+>
+> ```python
+ム"a la voz de aura"
+```
+>
+> ```python
+ムprint("a la voz de aura")
+```
