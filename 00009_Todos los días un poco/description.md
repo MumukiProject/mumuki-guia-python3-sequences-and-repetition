@@ -25,7 +25,7 @@ def alguna_vez_supero_objetivo(duraciones):
 Como vemos, acá la variable local que estamos usando de _acumulador_ es booleana, y en cada _iteración_ (es decir, cada vez que visitamos una `duracion`) actualizaremos su valor, para saber si esta `duracion` o alguna de las anteriores fue menor a 3. 
 
 
-> ¡Ahora te toca a vos! Dani tampoco quiere perder la práctica diaria de fútbol :soccer: y necesita una función `todos_los_dias_un_poco` que reciba una lista con cuántos minutos practicó cada cada día, y retorne si su práctica diaria fue siempre mayor a 30 minutos: 
+> ¡Ahora te toca a vos! Dani tampoco quiere perder la práctica diaria de fútbol :soccer: y necesita una función `todos_los_dias_un_poco` que reciba una lista con cuántos minutos practicó cada día, y retorne si su práctica diaria fue siempre mayor a 30 minutos: 
 >
 > 
 > ```python
