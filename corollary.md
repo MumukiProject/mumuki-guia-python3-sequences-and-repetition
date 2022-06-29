@@ -1,4 +1,4 @@
-En esta guía aprendiste algo muy importante: cómo hacer que la computadora repita tareas, usando la estructura de control `for`. Además, conociste los segmentos (_slices_), que nos permiten extrar rebanadas de listas y strings, los y rangos, que nos permiten generar números enteros entre otros dos. Y todo esto lo combinamos con el poder de las listas, para agrupar elementos y hacer tareas repetitivas con todos ellos. 
+En esta lección aprendiste algo muy importante: cómo hacer que la computadora repita tareas, usando la estructura de control `for`. Además, conociste los segmentos (_slices_), que nos permiten extrar rebanadas de listas y strings, los y rangos, que nos permiten generar números enteros entre otros dos. Y todo esto lo combinamos con el poder de las listas, para agrupar elementos y hacer tareas repetitivas con todos ellos. 
 
 Este caldero de conocimientos ya tiene todos los ingredientes de la pócima de la programación... :woman_mage::man_mage:
 
