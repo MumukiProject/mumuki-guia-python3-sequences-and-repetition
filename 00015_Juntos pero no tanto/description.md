@@ -3,8 +3,8 @@
 ```python
 ム juntar(" ", ["Nicki", "Nicole"])
 "Nicki Nicole"
-ム juntar(",", ["Londra", "Paulo"])
-"Londra,Paulo"
+ム juntar(",", ["Esposito", "Lali"])
+"Esposito,Lali"
 ム juntar("", ["W", "O", "S"])
 "WOS" # podemos seguir uniendo sin separadores si pasamos 
       # la lista vacía como argumento
