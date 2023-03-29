@@ -1,5 +1,4 @@
-Como vemos, las listas y los strings, si bien _no son lo mismo_, son más parecidos de lo que pensábamos: ambos tipos de datos representan _secuencias_.
+As we see, lists and strings, though _not the same thing_, are more similar than we thought: both data types represent _sequences_.
 
-* los strings son secuencias de caracteres, como `'a'`, `'b'`, `'#'`, etc;
-* las listas son secuencias de cualquier tipo de dato: números, booleanos, strings, o incluso otras listas. 
-
+* strings are sequences of characters, such as `'a'`, `'b'`, `'#'`, etc;
+* lists are sequences of any data type: numbers, booleans, strings, or even other lists.
