@@ -1,0 +1,1 @@
+:bulb: Remember that `count += 1` is the same as writing `count = count + 1`. In other words, we are _updating_ the local variable `count`, incrementing it by one.

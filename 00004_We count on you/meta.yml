@@ -11,25 +11,25 @@ manual_evaluation: false
 progressive_expectations: false
 choices:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`operacion_misteriosa` es una función, porque devuelve algo"
+  value: "`mystery_operation` is a function, because it returns something"
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`operacion_misteriosa` es un procedimiento, porque no devuelve nada"
+  value: "`mystery_operation` is a procedure, because it returns nothing"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`operacion_misteriosa` visita cada elemento de `elementos`, e incrementa
-    `cantidad` en `1` por cada uno"
+  value: "`mystery_operation` visits each element of `elements`, and increments `count`
+    by `1` for each one"
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`operacion_misteriosa` inicializa una variable local `cantidad` en `0`"
+  value: "`mystery_operation` initializes a local variable `count` to `0`"
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`operacion_misteriosa` inicializa una variable global `cantidad` en `0`"
+  value: "`mystery_operation` initializes a global variable `count` to `0`"
   checked: false
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`operacion_misteriosa` hace lo mismo que la función `len`"
+  value: "`mystery_operation` does the same thing as the `len` function"
   checked: true
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  value: "`operacion_misteriosa` no usa la variable `elemento`"
+  value: "`mystery_operation` does not use the `item` variable"
   checked: true
-name: Contalo vos
+name: We count on you
