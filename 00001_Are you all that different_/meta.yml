@@ -11,5 +11,5 @@ progressive_expectations: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
-  output: "'cantó'"
-name: No tan distintos
+  output: "'us'"
+name: Are you all that different?
