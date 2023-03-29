@@ -1,12 +1,12 @@
-_Y por supuesto, también podemos usar el `for` con listas de strings_
+_And of course, we can also use `for` with lists of strings_
 
-> Definí la función `juntar` que tome por parámetro una lista de strings y los una de la siguiente forma: 
-> 
+> Define the `join` function that takes a list of strings as a parameter and puts them together as follows:
+>
 > ```python
-> ム juntar(["super", "califragilistico", "espialidoso"])
-> "supercalifragilisticoespialidoso"
-> ム juntar(["cuatri", "motor"])
-> "cuatrimotor"
-> ム juntar([])
+> ムjoin(["what", "s", "it"])
+> "whatsit"
+> ムjoin(["butter", "fly"])
+> "butterfly"
+> join([])
 > ""
 > ```
