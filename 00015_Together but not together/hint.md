@@ -1,3 +1,3 @@
-:bulb: Quizás, para evitar que te sobren separadores al principio o al final, te convenga extaer segmentos como vimos al inicio de la lección. 
+:bulb: To avoid an odd - leading or trailing - separator, you might want to extract slices, as we saw at the beginning of the lesson.
 
-Por otro lado, para hacer las cosas un poco más fáciles, no es necesario que la nueva versión de `juntar` funcione para la lista vacía :relieved:. Pero si lo hace, ¡mucho mejor :sunglasses:!
+On the other hand, to make things a bit easier, the new version of `join` doesn't have to accept an empty list as a second argument :relieved: . But if you do, it's much better :sunglasses:!
