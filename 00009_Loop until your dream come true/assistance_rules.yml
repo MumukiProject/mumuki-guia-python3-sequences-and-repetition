@@ -3,17 +3,17 @@ rules:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     error_contains: "???"
-  then: 'no te olvides de reemplazar los `???` por código que realmente haga algo
+  then: 'don''t forget to replace the `???` with code that actually does something
     :smile:'
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     these_expectations_failed:
     - todos_los_dias_un_poco Not:UsesOr
-  then: en el ejemplo anterior teníamos que validar que **alguna** duración cumpliera
-    una condición y usamos `or`, pero acá tenemos que validar que **todas** las duraciones
-    la cumplan; ¿habrá otro operador lógico que nos resuelva ese problema?
+  then: in the previous example we had to check whether **any** duration met a condition
+    and we used `or`, but here we have to check that **all** durations meet it - is
+    there another logical operator that solves this problem for us?
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     only_these_expectations_failed:
     - todos_los_dias_un_poco Not:Assigns:WithFalse
-  then: probablemente te convenga inicializar tu acumulador con otro valor
+  then: you probably want to initialize your accumulator with another value
