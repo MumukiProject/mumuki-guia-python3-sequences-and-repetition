@@ -4,4 +4,5 @@ rules:
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     these_expectations_failed:
     - "* Not:Uses:index"
-  then: 'no vale usar `index`  :grin:'
+  then: 'yes, we can use the `index` function here, but we want to practice what we
+    have learned :grin:'
