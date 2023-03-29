@@ -1,11 +1,11 @@
-Te dejamos como inspiración la definición de `sumatoria` del ejercicio anterior: 
+We leave here -  as inspiration 😝 - the definition of `summation` from the previous exercise :
 
 ```python
-def sumatoria(numeros):
-  suma = 0
-  
-  for numero in numeros: 
-    suma += numero
+def summation(numbers):
+  sum = 0
+ 
+  for number in numbers:
+	sum += number
     
-  return suma
+  return sum
 ```
