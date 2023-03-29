@@ -1,1 +1,0 @@
-¿Con cuanto deberás inicializar la variable local en la que acumularás los resultados? ¿También con `0` o te convendrá otro valor?

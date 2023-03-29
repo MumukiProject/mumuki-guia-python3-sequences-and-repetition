@@ -3,5 +3,5 @@ rules:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
     error_contains: "???"
-  then: 'no te olvides de reemplazar los `???` por código que realmente haga algo
+  then: 'don''t forget to replace the `???` with code that actually does something
     :smile:'
