@@ -1,1 +1,0 @@
-En `extremos` no va a alcanzar con sólo extraer segmentos o acceder por indices: vas a tener que de alguna forma crear una nueva lista especificando sus elementos. :thinking:
