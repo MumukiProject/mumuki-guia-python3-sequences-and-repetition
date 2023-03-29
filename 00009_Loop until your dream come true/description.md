@@ -16,10 +16,10 @@ def ever_accomplished_goal(times):
   accomplished = False # initially, the < 3 minute goal was not accomplished
  
   for time in times:
-	accomplished = accomplished or time < 3 
-# but if any of them is less than 3 minutes,
-# then it will have passed it
- 
+	  # but if any of them is less than 3 minutes,
+    # then it will have passed it
+	  accomplished = accomplished or time < 3 
+  
   return accomplished
 ```
 
