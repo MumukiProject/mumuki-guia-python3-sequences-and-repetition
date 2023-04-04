@@ -10,6 +10,9 @@ expectations:
   binding: internals
   inspection: Returns
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: internals
+  inspection: UsesSlice
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
   inspection: Declares:extremes
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
@@ -18,3 +21,6 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: extremes
   inspection: Returns
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: extremes
+  inspection: UsesGetAt
