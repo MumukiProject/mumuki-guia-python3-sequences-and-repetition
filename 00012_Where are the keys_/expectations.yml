@@ -18,3 +18,6 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: where_are_the_keys
   inspection: Returns
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: where_are_the_keys
+  inspection: UsesIf
