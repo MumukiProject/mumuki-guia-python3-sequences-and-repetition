@@ -1,7 +1,7 @@
-def product(numeros):
-  producto = ???
+def product(numbers):
+  result = ???
   
-  for numero in numeros: 
+  for number in numbers: 
     ???
-    
-  return producto
+  
+  return result
