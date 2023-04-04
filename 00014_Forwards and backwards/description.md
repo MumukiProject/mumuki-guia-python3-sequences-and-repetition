@@ -77,7 +77,7 @@ hello worl
 > * an `extremes` function that does the exact opposite: it takes a list and returns another with only the first and last elements.
 >
 > ```python
-> internals([4, 5, 10, 2, 3])
+> ムinternals([4, 5, 10, 2, 3])
 > [5, 10, 2]
 > ムextremes([4, 5, 10, 2, 3])
 > [4, 3]
