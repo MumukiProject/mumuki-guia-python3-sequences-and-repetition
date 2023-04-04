@@ -2,10 +2,16 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
+  inspection: Declares:where_are_the_keys
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
+  inspection: DeclaresComputationWithArity1:where_are_the_keys
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: "*"
   inspection: Not:Uses:index
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: Declares:donde_estan_las_llaves
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: "*"
   inspection: Except:DoesTypeTest
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: where_are_the_keys
+  inspection: Returns
