@@ -16,5 +16,8 @@ expectations:
   binding: "*"
   inspection: Not:Calls:join
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: join_string
+  inspection: UsesPlus
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: join_strings
   inspection: Returns
