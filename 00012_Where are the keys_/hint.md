@@ -1,4 +1,4 @@
-As you can see, the strings can contain emojis. So emojis are characters, so we can do things like this:
+As you can see, the strings can contain emojis. That's because emojis are characters, which means we can do things like this:
 
 ``` python
 ム"🍪" == "👓"
