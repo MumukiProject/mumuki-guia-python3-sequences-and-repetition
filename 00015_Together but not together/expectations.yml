@@ -8,7 +8,10 @@ expectations:
   inspection: DeclaresComputationWithArity2:join_strings
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: Not:Uses:join_strings
+  inspection: Not:Uses:join
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
   inspection: Except:DoesTypeTest
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: join_strings
+  inspection: UsesForLoop
