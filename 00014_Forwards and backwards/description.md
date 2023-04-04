@@ -68,7 +68,7 @@ hello worl
 ム"hello world"[-1] # last character
 "d"	 
 ム"hello world"[-2] # penultimate character
-"d"
+"l"
 ```
 
 > Let's put everything we've seen into practice! Define:
