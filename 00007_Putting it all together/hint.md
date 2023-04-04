@@ -2,10 +2,10 @@ We leave here -  as inspiration 😝 - the definition of `summation` from the pr
 
 ```python
 def summation(numbers):
-  sum = 0
+  result = 0
  
   for number in numbers:
-	sum += number
+    result += number
     
-  return sum
+  return result
 ```
