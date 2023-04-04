@@ -10,7 +10,7 @@ def summation(numbers):
   return result
 ```
 
-...calculates the sum of all elements given a list of numbers, by adding them, one by one, to our `sum` variable - which is usually called an _accumulator_:
+...calculates the sum of all elements given a list of numbers, by adding them, one by one, to our `result` variable - which is usually called an _accumulator_:
 
 ```python
 ムsummation([10, 5, 20])
