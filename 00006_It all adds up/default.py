@@ -1,4 +1,4 @@
-def productoria(numeros):
+def product(numeros):
   producto = ???
   
   for numero in numeros: 

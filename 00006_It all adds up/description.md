@@ -2,12 +2,12 @@ Things get even more interesting when we combine all these tools. For example, t
 
 ```python
 def summation(numbers):
-  sum = 0
+  result = 0
  
   for number in numbers:
-	sum += number
+    result += number
     
-  return sum
+  return result
 ```
 
 ...calculates the sum of all elements given a list of numbers, by adding them, one by one, to our `sum` variable - which is usually called an _accumulator_:
