@@ -7,7 +7,7 @@ expectations:
   binding: "*"
   inspection: DeclaresComputationWithArity1:join_strings
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: join_string
+  binding: join_strings
   inspection: Assigns
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: join_strings
