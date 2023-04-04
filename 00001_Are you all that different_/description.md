@@ -18,7 +18,7 @@ True
 > Is this just a coincidence? Are there more common operations between these two data types? Let's find out by trying the following expression:
 >
 > ```python
-ム"i was born" + "in Constitucion"
+ム"i was born" + " in Constitucion"
 ```
 >
 > ```python
