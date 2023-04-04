@@ -7,7 +7,7 @@ On the other hand, we have just learned that the `for ... in` lets us "visit" ea
 
   1. `in` allows us to specify which sequence of elements to loop through;
   2. `for` allows us to choose a name which will refer to **each** element of the sequence;
-  3. and after the `:` we will have one or more actions that will be executed when visiting each element. :warning: ⚠️ Watch out! **They have to be indented to right of the `for` line**
+  3. and after the `:` we will have one or more actions that will be executed when visiting each element. :warning: ⚠️ Watch out! **They have to be indented to right :arrow_right: of the `for` line**
 
 When writing `print_each_element` we decided to:
 
