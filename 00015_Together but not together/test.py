@@ -1,20 +1,22 @@
 class Test(unittest.TestCase):
 
-  def test_join_strings_super_califragilistico_espialidoso_devuelve_supercalifragilisticoespialidoso(self):
-    self.assertEqual(join_strings("", ["super", "califragilistico", "espialidoso"]), "supercalifragilisticoespialidoso")
+  def test_join_strings_with_empty_string_and_super_califragilistic_expialidocious_returns_supercalifragilisticexpialidocious(self):
+    self.assertEqual(join_strings("", ["super", "califragilistic", "expialidocious"]), "supercalifragilisticexpialidocious")
     
-  
-  def test_join_strings_cuatri_motor_devuelve_cuatrimotor(self):
-    self.assertEqual(join_strings("", ["cuatri", "motor"]), "cuatrimotor")
-    
-  def test_join_strings_hola_mundo_con_un_espacio_devuelve_hola_mundo(self):
-    self.assertEqual(join_strings(" ", ["hola", "mundo"]), "hola mundo")
-    
-      
-  def test_join_strings_hola_mundo_con_una_coma_devuelve_hola_coma_mundo(self):
-    self.assertEqual(join_strings(",", ["hola", "mundo"]), "hola,mundo")
-    
-    
-  
-    
-    
+  def test_join_strings_with_empty_string_and_butter_fly_returns_butterfly(self):
+    self.assertEqual(join_strings("", ["butter", "fly"]), "butterfly")
+
+  def test_join_strings_with_empty_string_and_what_s_it_returns_whatsit(self):
+    self.assertEqual(join_strings("", ["what",  "s", "it"]), "whatsit")
+
+  def test_join_strings_with_comma_and_hello_world_returns_hello_comma_world(self):
+    self.assertEqual(join_strings(",", ["hello",  "world"]), "hello,world")
+
+  def test_first_example(self):
+    self.assertEqual(join_strings(" ", ["Nicki", "Nicole"]), "Nicki Nicole")
+
+  def test_second_example(self):
+    self.assertEqual(join_strings(",", ["Esposito", "Lali"]), "Esposito,Lali")
+
+  def test_third_example(self):
+    self.assertEqual(join_strings("", ["W", "O", "S"]), "WOS")
