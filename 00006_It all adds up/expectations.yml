@@ -12,3 +12,6 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: product
   inspection: Assigns:result
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: product
+  inspection: UsesMultiply
