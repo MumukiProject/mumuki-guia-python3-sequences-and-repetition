@@ -14,4 +14,4 @@ expectations:
   inspection: Except:DoesTypeTest
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: join_strings
-  inspection: UsesForLoop
+  inspection: UsesLoop
