@@ -10,6 +10,9 @@ expectations:
   binding: "*"
   inspection: Not:Uses:index
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: where_are_the_keys
+  inspection: UsesLoop
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
   inspection: Except:DoesTypeTest
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
