@@ -1,7 +1,6 @@
-def imprimir_cada_elemento(elementos): 
-  for elemento in elementos: 
-    print(elemento)
-    
+def print_each_element(elements):
+  for element in elements:
+    print(element)
 
-def listo():
+def done():
   pass

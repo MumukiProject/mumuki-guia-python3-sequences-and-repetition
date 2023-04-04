@@ -5,12 +5,12 @@ _And finally here is the main course of the lesson :spaghetti:!_
 ```python
 def print_each_element(elements):
   for element in elements:
-	print(element)
+    print(element)
 ```
 
 This control structure will allow us to...
 
-> ...nope, we'd better not tell you what exactly `for` does :smiling_imp:.  Find it out by trying the **procedure** `print_each_item` in the console:
+> ...nope, we'd better not tell you what exactly `for` does :smiling_imp:.  Find it out by trying the **procedure** `print_each_element` in the console:
 >
 > ```python
 ムprint_each_element(["Violeta", "Mercedes", "Natalia", "Charo", "María Elena"])
@@ -29,6 +29,6 @@ This control structure will allow us to...
 ```
 >
 > ```python
-ムprint_each_item(range(5, 30, 2)) # pay attention to the third argument of range
+ムprint_each_element(range(5, 30, 2)) # pay attention to the third argument of range
 ```
 > When you're done, type `done()`
