@@ -12,3 +12,6 @@ expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
   inspection: Not:Uses:join_strings
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: join_strings
+  inspection: Returns
