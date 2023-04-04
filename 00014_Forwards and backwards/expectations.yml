@@ -7,8 +7,14 @@ expectations:
   binding: "*"
   inspection: DeclaresComputationWithArity1:internals
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: internals
+  inspection: Returns
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
   inspection: Declares:extremes
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
   inspection: DeclaresComputationWithArity1:extremes
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: extremes
+  inspection: Returns
