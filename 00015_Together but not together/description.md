@@ -7,7 +7,7 @@ Now what if we need to join lists of strings, but indicating a _separator_? For 
 "Esposito,Lali"
 ムjoin_strings("", ["W", "O", "S"])
 "WOS" # we can still join without separators if we pass
-  	# the empty string as argument
+  	  # the empty string as argument
 ```
 
 > Let's improve our previous function! Modify `join_strings` so that we also receive a separator as first argument. The separator is a string that will go between each string.
