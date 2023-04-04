@@ -11,7 +11,7 @@ expectations:
   inspection: UsesLoop
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: Not:Uses:join
+  inspection: Not:Calls:join
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: join_strings
   inspection: Returns
