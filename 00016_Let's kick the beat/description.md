@@ -22,7 +22,7 @@ This kind of `if` is also very common when programming in those situations that 
 
 
 
-> Knowing this, now let's help Dani define ``, which returns the number of times she trained for more than 30 minutes.
+> Knowing this, now let's help Dani define `how_many_times_trained_enough`, which returns the number of times she trained for more than 30 minutes.
 >
 > ```python
 > ムhow_many_times_trained_enough([35, 40, 32, 60])
