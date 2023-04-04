@@ -3,7 +3,7 @@ Several things have just happened! First, _ranges_ have entered the stage, which
 * correlative, as in `range(1, 10)`, which is nothing more than the sequence of numbers from `1` to `9` (yes, the last is not included :exclamation:)
 * with jumps, as in `range(0, 10, 3)`, which are the numbers from `0` to `9` jumping by a _step_ of 3: `0`, `3`, `6`, `9`
 
-On the other hand, we have just learned that the `for ... in` lets us "visit" each element of a list, string or range of numbers, and do something with it. To do this, this control structure has three parts:
+On the other hand, we have just learned that the `for ... in` lets us "visit" each element of a list, string or range of numbers, and do something with it. To do this, this _control structure_ has three parts:
 
   1. `in` allows us to specify which sequence of elements to loop through;
   2. `for` allows us to choose a name which will refer to **each** element of the sequence;
