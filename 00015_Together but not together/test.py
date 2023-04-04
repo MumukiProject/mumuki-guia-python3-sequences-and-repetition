@@ -12,11 +12,11 @@ class Test(unittest.TestCase):
   def test_join_strings_with_comma_and_hello_world_returns_hello_comma_world(self):
     self.assertEqual(join_strings(",", ["hello",  "world"]), "hello,world")
 
-  def test_first_example(self):
+  def test_1st_example(self):
     self.assertEqual(join_strings(" ", ["Nicki", "Nicole"]), "Nicki Nicole")
 
-  def test_second_example(self):
+  def test_2nd_example(self):
     self.assertEqual(join_strings(",", ["Esposito", "Lali"]), "Esposito,Lali")
 
-  def test_third_example(self):
+  def test_3rd_example(self):
     self.assertEqual(join_strings("", ["W", "O", "S"]), "WOS")
