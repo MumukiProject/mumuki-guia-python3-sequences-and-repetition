@@ -73,11 +73,11 @@ hello worl
 
 > Let's put everything we've seen into practice! Define:
 >
-> * a `no_ends` function that takes a list and returns a similar one but without its first and last elements;
+> * a `internals` function that takes a list and returns a similar one but without its first and last elements;
 > * an `extremes` function that does the exact opposite: it takes a list and returns another with only the first and last elements.
 >
 > ```python
-> ムno_ends([4, 5, 10, 2, 3])
+> internals([4, 5, 10, 2, 3])
 > [5, 10, 2]
 > ムextremes([4, 5, 10, 2, 3])
 > [4, 3]
