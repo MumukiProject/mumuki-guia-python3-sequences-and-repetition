@@ -2,13 +2,13 @@
 expectations:
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: Declares:juntar
+  inspection: Declares:join_strings
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: DeclaresComputationWithArity1:juntar
+  inspection: DeclaresComputationWithArity1:join_strings
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: juntar
+  binding: join_strings
   inspection: UsesLoop
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: Not:Uses:join
+  inspection: Not:Uses:join_strings

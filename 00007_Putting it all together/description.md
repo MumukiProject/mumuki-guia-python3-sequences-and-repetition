@@ -7,6 +7,6 @@ _And of course, we can also use `for` with lists of strings_
 > "whatsit"
 > ムjoin_strings(["butter", "fly"])
 > "butterfly"
-> join_strings([])
+> ムjoin_strings([])
 > ""
 > ```
