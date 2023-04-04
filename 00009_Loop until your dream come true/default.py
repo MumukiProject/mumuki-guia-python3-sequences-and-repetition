@@ -1,7 +1,7 @@
-def todos_los_dias_un_poco(duraciones): 
+def in_a_streak(times): 
   ???
   
-  for duracion in duraciones:
+  for time in times:
     ???
   
   return ???
