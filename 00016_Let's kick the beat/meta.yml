@@ -6,7 +6,7 @@ editor: code
 type: problem
 extra_visible: false
 teacher_info: ''
-manual_evaluation: true
-progressive_expectations: false
+manual_evaluation: false
+progressive_expectations: true
 choices: []
 name: Let's kick the beat
