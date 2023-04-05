@@ -5,4 +5,10 @@ class Test(unittest.TestCase):
     
   def test_in_a_streak_with_15_45_90_0_equals_False(self):
     self.assertFalse(in_a_streak([15, 45, 90, 0]))
+  
+  def test_in_a_streak_with_15_15_equals_False(self):
+    self.assertFalse(in_a_streak([15, 15]))
     
+  def test_in_a_streak_with_35_15_equals_False(self):
+    self.assertFalse(in_a_streak([35, 15]))    
+      
