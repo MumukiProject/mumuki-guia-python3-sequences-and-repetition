@@ -1,12 +1,10 @@
-def listo():
+def done():
   pass
 
 
-primera_estrofa = """
-Aquí me pongo a cantar		
-al compás de la vigüela,		
-que el hombre que lo desvela		
-una pena estraordinaria,		
-como la ave solitaria	
-con el cantar se consuela
+first_verse = """
+People moving every day
+but you know they move so slow
+do they know why they're going?
+do they know why they go?
 """.strip()
