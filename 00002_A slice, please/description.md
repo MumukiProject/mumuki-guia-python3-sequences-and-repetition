@@ -23,5 +23,5 @@
 > Let's apply what we've just learned to strings! We already loaded in the console a variable of type string called `first_verse`. 🔨 Using our new tools, do the following:
 >
 > 1. Find out how many characters `first_verse` has
-> 2. Get a string with the first 22 characters of `first_verse`
+> 2. Get a string with the first 23 characters of `first_verse`
 > 3. Get a string with the last 25 characters of `first_verse`

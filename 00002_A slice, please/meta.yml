@@ -11,5 +11,5 @@ progressive_expectations: false
 choices: []
 goal: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   kind: last_query_outputs
-  output: "'con el cantar se consuela'"
+  output: "'do they know why they go?'"
 name: A slice, please
