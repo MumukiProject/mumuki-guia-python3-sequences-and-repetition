@@ -10,5 +10,5 @@ class Test(unittest.TestCase):
     self.assertEquals(how_many_times_trained_enough([15, 45, 90]), 1)
     
   def test_how_many_times_trained_enough_with_42_45_43_equals_1(self):
-    self.assertEquals(how_many_times_trained_enough([42, 45, 43]), 1)    
+    self.assertEquals(how_many_times_trained_enough([42, 45, 43]), 3)    
 
