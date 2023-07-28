@@ -1,19 +1,16 @@
 ---
 rules:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+- when:
     error_contains: "???"
   then: 'don''t forget to replace the `???` with code that actually does something
     :smile:'
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+- when:
     these_expectations_failed:
     - todos_los_dias_un_poco Not:UsesOr
   then: in the previous example we had to check whether **any** duration met a condition
     and we used `or`, but here we have to check that **all** durations meet it - is
     there another logical operator that solves this problem for us?
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  when: !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+- when:
     only_these_expectations_failed:
     - todos_los_dias_un_poco Not:Assigns:WithFalse
   then: you probably want to initialize your accumulator with another value
